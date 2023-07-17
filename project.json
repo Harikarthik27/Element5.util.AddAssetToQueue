@@ -1,5 +1,5 @@
 {
-  "name": "Add Asset To Queue",
+  "name": "Element5.util.AddAssetToQueue",
   "description": "Addding asset to queue",
   "main": "Main.xaml",
   "dependencies": {
